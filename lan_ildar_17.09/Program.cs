@@ -129,6 +129,7 @@ namespace lan_ildar_17._09
 			//Явные и неявные преобразовани
 
             // ГОВНО
+            // ХУЙ
 			Console.ReadKey();
 		}
 	}
