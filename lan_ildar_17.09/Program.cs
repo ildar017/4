@@ -6,14 +6,7 @@ namespace lan_ildar_17._09
 	{
 		static void Main(string[] args)
 		{
-			// byte n1 = -300;
-			// Console.WriteLine(n1);
-			// float n2 = -300;
-			// Console.WriteLine(n2);
-			// int n3 = -32769;
-			// Console.WriteLine(n3);
-			// long n4 = -32769;
-			// Console.WriteLine(n4);
+
 
 			char n5 = 'A';
 			Console.WriteLine(n5);
@@ -135,7 +128,7 @@ namespace lan_ildar_17._09
 
 			//Явные и неявные преобразовани
 
-
+            
 			Console.ReadKey();
 		}
 	}
