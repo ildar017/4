@@ -7,7 +7,7 @@ namespace lan_ildar_17._09
 		static void Main(string[] args)
 		{
 
-
+            // гавно 
 			char n5 = 'A';
 			Console.WriteLine(n5);
 
